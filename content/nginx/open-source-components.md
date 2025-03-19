@@ -12,14 +12,6 @@ docs: DOCS-471
 doctypes:
   - reference
 ---
-Hello Write the Docs Conference!
-
-HELP
-
-Make all the changes you need to, save, publish etc :tada:
-
-&nbsp;
-
 Open source components included in the F5 NGINX Plus (package name is `nginx-plus`) are:
 
 * nginx/OSS 1.27.2, distributed under 2-clause BSD license.
@@ -46,7 +38,11 @@ Open source components included in the F5 NGINX Plus (package name is `nginx-plu
 
   Author: Alexander Peslyak, better known as Solar Designer
 
+  &nbsp;
+
   <solar at="" openwall.com=""></solar>
+
+  &nbsp;
 
   &nbsp;
 
